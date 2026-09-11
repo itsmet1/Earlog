@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+earlog.db
+my_env/
+venv/
+.vscode/
+*.log
+
+# PyInstaller build artifacts
+dist/
+build/
+*.spec
+
+# Android Studio / Gradle
+mobile/EarLogApp/.gradle/
+mobile/EarLogApp/.idea/
+mobile/EarLogApp/local.properties
+mobile/EarLogApp/app/build/
+mobile/EarLogApp/build/
+mobile/EarLogApp/*.iml
+mobile/EarLogApp/app/*.iml
+mobile/EarLogApp/captures/
+mobile/EarLogApp/.externalNativeBuild/
+mobile/EarLogApp/.cxx/
