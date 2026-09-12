@@ -1,8 +1,10 @@
 # EarLog 🎧
 
 Automatic focus-time tracking using your earbuds' Bluetooth connection state — no timer, no button. Connect your earbuds to start a session, disconnect to end it.
+# Dashboard
 
-![EarLog dashboard](docs/screenshot.png)
+![EarLog dashboard](docs/screenshot-dash.png)
+![EarLog dashboard](docs/screenshot-session.png)
 
 ## How it works
 
