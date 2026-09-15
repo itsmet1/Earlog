@@ -26,7 +26,7 @@ Everything runs on your own local network — no cloud, no account, no data leav
 
 **Option B — from source (requires Python 3.9+):**
 ```bash
-git clone https://github.com/<you>/earlog.git
+git clone https://github.com/itsmet1/earlog.git
 cd earlog
 pip install -r requirements.txt
 python api.py        # Windows: double-click run_windows.bat instead
